@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Cursando Sistemas de Informação na UEMG - Universidade do Estado de Minas Gerais
 - 📚 Estou me aprofundando em HTML, CSS e JavaScript
-<div align="center">
+<div align="left">
   <a href="https://github.com/GustavoHAvila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHAvila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHAvila&layout=compact&langs_count=7&theme=dracula"/>
