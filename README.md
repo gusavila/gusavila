@@ -14,7 +14,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gusavila&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=d1d7d5&border_radius=7&rank_icon=github&hide=prs,issues,contrib,stars"
+      srcset="https://github-readme-stats.vercel.app/api?username=gusavila&show_icons=true&include_all_commits=true&count_private=true&bg_color=040927&text_color=d1d7d5&border_radius=7&rank_icon=github&hide=prs,issues,contrib,stars"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=gusavila&show_icons=true&include_all_commits=true&count_private=true" />
@@ -25,7 +25,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gusavila&layout=donut&langs_count=5&bg_color=00000000&text_color=d1d7d5&border_radius=7"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gusavila&layout=donut&langs_count=5&bg_color=040927&text_color=d1d7d5&border_radius=7"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusavila&layout=compact&langs_count=4" />
