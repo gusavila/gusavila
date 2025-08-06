@@ -1,5 +1,9 @@
 <div align="center">
-  <h3><img width=25 src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0MTk0NzksIm5iZiI6MTc1NDQxOTE3OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA1VDE4MzkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5ZmZhMDc2MDljYWJjYWI5NzRkMTE4MjUxZTA1NDQyMTJjYTA4MmQ5ZmM0ZDQyOTBkYjA2MDVkOTQ2NTIxYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w2hynkmspZwKf5vT0ok7TsoAl32Q5-Z4beGKIpauo7w" /> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=6095FF&vCenter=true&width=800&height=30&lines=+Hello+There!+Welcome+to+my+profile%2C+I'm+a+Web+Developer." alt="Typing SVG" /></a> </h3>
+  <img width=25 src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0MTk0NzksIm5iZiI6MTc1NDQxOTE3OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA1VDE4MzkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5ZmZhMDc2MDljYWJjYWI5NzRkMTE4MjUxZTA1NDQyMTJjYTA4MmQ5ZmM0ZDQyOTBkYjA2MDVkOTQ2NTIxYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w2hynkmspZwKf5vT0ok7TsoAl32Q5-Z4beGKIpauo7w" />
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=6095FF&vCenter=true&width=800&height=30&lines=+Hello+There!+Welcome+to+my+profile%2C+I'm+a+Web+Developer." alt="Typing SVG" /></a>
 </div>
 
 
@@ -54,7 +58,7 @@
 
 ##
 
-<img src ="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0MTk0NzksIm5iZiI6MTc1NDQxOTE3OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA1VDE4MzkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViZjlkZTgzZTJmMmZhYmIwZjg4NjRmZmFjMjRkNzQ4ZDEwODY4NzdiM2FlOWQ1NjRhZTQ3NTRiOTRlNjk1MmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iX90fl7rS46l0BMORJlUGOJqQYfmRJtnCKWx0lh_K1w">
+![Background Poster](github_bg.webp)
 
 <div align="right" > 
   <a href="https://www.linkedin.com/in/gustavoavilawebdeveloper/" target="_blank"><img width="60px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"></a> 
