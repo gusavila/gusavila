@@ -42,15 +42,6 @@
   <img align="center" alt="Gus-Js"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Gus-Js"  width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-##
-
-#### Top Repositories
-
-<div align="left">
-  <a href="https://github.com/gusavila/fullstack-todo-list" target="_blank"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=gusavila&repo=fullstack-todo-list&bg_color=040927&hide_border=true&theme=dark&icon_color=6095FF&title_color=6095FF&border_radius=7&border_color=6095FFF" /></a> 
-  <a href="https://github.com/gusavila/portifolio" target="_blank"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=gusavila&repo=portifolio&hide_border=true&bg_color=040927&theme=dark&icon_color=6095FF&title_color=6095FF&border_radius=7&border_color=6095FFF" /></a> 
-</div>
 
 ##
 
